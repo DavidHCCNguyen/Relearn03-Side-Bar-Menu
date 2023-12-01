@@ -1,5 +1,4 @@
-# Relearn03-Responsive Card Slider
-
+# Relearn03-Side Bar Menu
 Welcome to my Relearning Adventure! In this project, I will be showcasing my skills and brief examples of what I am doing, or at least relearning.
 
 ## Table of Contents
