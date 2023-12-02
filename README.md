@@ -42,3 +42,5 @@ Learn about the integration of Swiper Js, a powerful slider library, and how it 
 
 ### [Lorem Ipsum](https://www.lipsum.com/feed/html)
 Explore the usage of Lorem Ipsum, a random text generation site, in the design process. Understand its role in placeholder content and design refinement.
+
+### [Click here to view the Side Bar Menu creation](https://davidhccnguyen.github.io/Relearn03-Side-Bar-Menu/)
