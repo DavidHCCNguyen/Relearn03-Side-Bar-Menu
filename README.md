@@ -4,13 +4,13 @@ Welcome to my Relearning Adventure! In this project, I will be showcasing my ski
 ## Table of Contents
 
 - [Introduction](#introduction)
-  This section provides an overview of the profile card UI design project, highlighting the motivation and goals behind my relearning journey.
+  This section provides an overview of the Side Bar Menu design project, highlighting the motivation and goals behind my relearning journey.
 
 - [Features](#features)
-  Discover the key features implemented in the profile card UI design, showcasing the various elements and functionalities.
+  Discover the key features implemented in the Side Bar Menu design, showcasing the various elements and functionalities.
 
 - [Sites](#sites)
-  Explore the external sites and resources that played a significant role in shaping and enhancing this profile card UI.
+  Explore the external sites and resources that played a significant role in shaping and enhancing this Side Bar Menu.
 
 ## Introduction
 
