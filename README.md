@@ -31,7 +31,7 @@ Here, you'll find a detailed list of the distinctive features incorporated into 
 ### [Youtube](https://www.youtube.com/)
 Valuable tutorials and insights from the YouTube community played a pivotal role in refining my skills. Learn more about the impactful videos that influenced this project.
 
-### ### [Font Awesome](https://fontawesome.com/) 
+### [Font Awesome](https://fontawesome.com/) 
 Utilized a variety of icons from Fontawesome to enhance the visual appeal and user interaction of the side bar. Explore how these icons contribute to the overall design.
 
 ### [Google Fonts](https://fonts.google.com/)
